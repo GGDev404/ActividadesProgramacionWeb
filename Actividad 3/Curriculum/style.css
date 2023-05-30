@@ -1,0 +1,47 @@
+.cuerpoxd {
+    background-color: #9BA4B5; /* Color de fondo deseado */
+  }
+.barraLateral{
+    
+    background-color: #212A3E;
+    
+}
+#foto{
+    width: 250px;;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  
+  .info {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: white;
+  }
+#Redes{
+    width: 50px;
+    margin: 5px;
+}  
+
+.titulos{
+    color: #212A3E;
+}
+.subTitulo{
+    color:#9BA4B5;
+}
+.h22{
+    color: #9BA4B5;
+}
+.ladotexto{
+    color: white;
+}
+
+.container{
+    background-color: #F1F6F9;
+    border: solid black;
+}
+.nombre{
+    color: #F1F6F9;
+}
