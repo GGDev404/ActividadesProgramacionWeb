@@ -1,0 +1,33 @@
+$font-family-sans-serif: 'Bebas Neue', sans-serif;
+
+$primary:#733fc8;
+$success:#49556b;
+$dark:#18202d;
+$secondary:#edf2f8;
+
+@media(min-width: 992px){
+    .alto-100{
+        height: 100vh;
+    }
+}
+
+.d-flex img{
+    width: 50px;
+}
+
+.fondo-card{
+    background-image: url("/src/img/cita.png");
+    background-repeat: no-repeat;
+    background-position: 85% top;
+    
+}
+
+$container-max-Widths:(
+    sm:540px,
+    md:720px,
+    lg:960px,
+    xl:960px,
+    xxl:960px
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
