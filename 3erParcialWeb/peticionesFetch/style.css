@@ -1,0 +1,9 @@
+html{
+    background-color:wheat;
+}
+
+.container {
+    column-count: 2;
+    column-gap: 20px;
+    padding: 20px;
+}
